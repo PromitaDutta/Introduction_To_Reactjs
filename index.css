@@ -1,0 +1,16 @@
+.greeting {
+  font-family: Roboto;
+  font-size: 50px;
+}
+
+.greetings {
+  font-family: roboto;
+  font-size: 46px;
+  color: green;
+}
+
+.description {
+  font-family: bree-serif;
+  font-size: 30px;
+  color: orange;
+}
